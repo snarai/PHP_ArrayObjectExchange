@@ -1,3 +1,5 @@
+<?php
+
 class Member{
     //インスタンス変数
     public int $id;
